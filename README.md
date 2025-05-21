@@ -13,4 +13,4 @@ Passenger ages were categorized into the following groups:
 -  **Elderly**
 
 ## 📊 Statistical Analysis
-To examine the relationship between passenger age and ticket class (**Pclass**), a **Chi-square test** was applied. The resulting **p-value < 0.05** confirms a statistically significant correlation between these variables.
+To examine the relationship between passenger age and ticket class, a **Chi-square test** was applied. The resulting **p-value < 0.05** confirms a statistically significant correlation between these variables.
