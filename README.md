@@ -1,7 +1,7 @@
 # 🚢 Titanic Dataset Analysis
 
 ## 📌 Project Description
-This project is dedicated to analyzing passenger data from the legendary Titanic, contained in the **Titanic_Dataset.csv** dataset. We explore the relationship between passenger age groups and their ticket class (**Pclass**).
+This project is dedicated to analyzing passenger data from the legendary Titanic, contained in the **Titanic_Dataset.csv** dataset. We explore the relationship between passenger age groups and their ticket class.
 
 ## 🔄 Data Transformation
 Passenger ages were categorized into the following groups:
